@@ -1,5 +1,5 @@
 # Literary-Explorer 📖✨
-Using NLP to perform literary analysis from novels 
+Using NLP to perform literary analysis on novels - starting with Sally Rooney's *Normal People*
 
 ## Project Overview
 
