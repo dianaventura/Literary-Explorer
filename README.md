@@ -49,15 +49,7 @@ The aim of this project is to use machine learning techniques to analyse Sally R
 - Study characters' behaviors and how they influence each other.
 - Identify patterns of manipulation, support, and conflict.
 
-### 🌐 Phase 4: Cultural Impact and Connection
-
-#### 🎭 Thematic Analysis
-- Relate findings to broader cultural and societal themes.
-- Discuss how the behaviors and interactions in *Normal People* reflect or contrast with current pop culture phenomena.
-
-#### 📺 Pop Culture Connection
-- Create analogies and connections to popular movies, TV shows, and social media trends.
-- Highlight relevant Gen Z cultural references.
+### 🌐 Phase 4: TBC
 
 ## 📄 Papers I am Reading for This Project!!
 
